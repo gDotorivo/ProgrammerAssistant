@@ -5,6 +5,7 @@
 </br>
 
 # Tecnologias Utilizadas:
+- <p>Python</p>
 - <p>Jupyter Notebook</p>
 </br>
 
